@@ -2,8 +2,7 @@
 
 This repository is create for class teaching purpose
 
-Please download this coding and upload in your google drive
+Please download this coding and edit the code in google colab or visual studio
 
-Finish the assignment and share the google link inside the website 
+Finish the assignment and upload the code inside LMS 
 
-#### MAKE SURE THE LINK SHARE IS PUBLIC 
